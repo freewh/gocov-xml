@@ -25,14 +25,14 @@ For Go 1.17 and above:
 
 ```bash
 go install github.com/axw/gocov/gocov@latest
-go install github.com/AlekSi/gocov-xml@latest
+go install github.com/freewh/gocov-xml@latest
 ```
 
 For previous Go versions:
 
 ```bash
 go get github.com/axw/gocov/...
-go get github.com/AlekSi/gocov-xml
+go get github.com/freewh/gocov-xml
 ```
 
 ## Usage

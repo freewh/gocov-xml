@@ -2,3 +2,5 @@
 coverage.xml
 
 gocov-xml
+
+.idea
